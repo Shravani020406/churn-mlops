@@ -1,4 +1,4 @@
-# Customer Churn Prediction (End-to-End MLOps)
+[![CI](https://github.com/Shravani020406/churn-mlops/actions/workflows/ci.yml/badge.svg)](https://github.com/Shravani020406/churn-mlops/actions/workflows/ci.yml)
 
 Predicts whether a telecom customer will leave, using the Telco Customer Churn
 dataset from Kaggle. Download the CSV from Kaggle and place it in `data/`.

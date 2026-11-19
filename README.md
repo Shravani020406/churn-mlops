@@ -23,3 +23,11 @@ Python, scikit-learn, XGBoost, MLflow
 
 ## Coming next
 FastAPI service, Docker, GitHub Actions CI, deployment
+
+## Live demo
+API docs: https://churn-mlops-mmf8.onrender.com
+(Free plan: the first request after inactivity may take about a minute.)
+
+## Pipeline
+Data exploration, 5 models compared with MLflow, FastAPI service, pytest tests,
+GitHub Actions CI (tests + Docker build), deployed on Render.
